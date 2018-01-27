@@ -6,8 +6,13 @@ package com.puppet.sample.langs;
  */
 public class Sp
 {
-    public static String main( String[] args )
+
+    public String Msg()
     {
         return "¡Hola Mundo!";
+    }
+
+    public static void main( String[] args )
+    {
     }
 }
